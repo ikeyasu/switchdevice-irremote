@@ -1,0 +1,3 @@
+[submodule "IRLib"]
+	path = firmware/vendor/IRLib
+	url = https://github.com/edwios/IRLib.git
