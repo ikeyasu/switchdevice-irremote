@@ -17,7 +17,7 @@
 var LED1_AMPERE = 0.2; // 100 mA
 var LED1_VOLTAGE = 1.35; // 1.35 V
 var SOURCE_VOLTAGE = 3.3; // 3.3 V
-var TRANSISTOR_HFR = 200; // An amplification factor
+var TRANSISTOR_HFR = 100; // An amplification factor
 
 var resistor_led1 = (SOURCE_VOLTAGE - LED1_VOLTAGE) / LED1_AMPERE
 console.log("R_LED1: " + resistor_led1 + ' Ohm');
