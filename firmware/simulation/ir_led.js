@@ -1,7 +1,7 @@
 /**
  * (3.3VSource)
  *  |
- *  +---(LED1)|<--(R_LED1)vvvv------+
+ *  +--(LED1)->|--(R_LED1)vvvv------+
  *                                  |
  *  (3.3VSignal)---vvv(R_BASE)----|-- (2SC1815)
  *                                |->
